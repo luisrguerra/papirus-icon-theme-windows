@@ -2,5 +2,5 @@
 Icon conversion from Papirus theme for Linux to Windows icon format ".ico"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luisrguerra/papirus-icon-theme-windows/blob/main/preview.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/luisrguerra/papirus-icon-theme-windows/main/preview.png" alt="preview"/>
 </p>
